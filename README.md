@@ -2,20 +2,20 @@
 
 Simples página feita em HTML e CSS apresentando uma receita de cupcakes. 
 
-## Funcionalidades
 
+## Sobre o projeto:
+
+### 🎮 Funcionalidades:
 - Exibição detalhada da receita com ingredientes e modo de preparo.
 - Design responsivo para diversos dispositivos.
 
 
-## Tecnologias Utilizadas
-
+### 🛠️ Tecnologias Utilizadas:
 - HTML5
 - CSS3
 
 
-## Como Utilizar
-
+### 🎯 Como Utilizar
 1. Clone o repositório:
 
    ```bash
